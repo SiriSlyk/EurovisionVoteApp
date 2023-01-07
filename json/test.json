@@ -1,0 +1,16 @@
+{
+    "years" : {
+      "2022" : {
+        "city" : "Turin",
+        "country" : "Italy",
+        "entriesCount" : 40
+      },
+      "2021": {
+          "city" : "Rotterdam",
+          "country" : "The Netherland",
+          "entriesCount" : 39,
+          "winner": "Italy"
+      }
+    }
+  }
+  

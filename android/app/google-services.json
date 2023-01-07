@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295029365546",
+    "firebase_url": "https://eurovisionvoteapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eurovisionvoteapp",
+    "storage_bucket": "eurovisionvoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295029365546:android:0c1e97f303c7800af4dc53",
+        "android_client_info": {
+          "package_name": "com.example.eurovisionvoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295029365546-lcsjs4ii1v2t8ci5v74u6pirkc0cld06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLon5YvKShimX-irxnCdcrBxKdpO6qGKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295029365546-lcsjs4ii1v2t8ci5v74u6pirkc0cld06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295029365546-cepcn40rb9pg93p6o3rr78grman0392g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eurovisionvoteapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
